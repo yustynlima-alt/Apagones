@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Apagones"
+  author: "Andy Lima"
+  date: "23/10/2026"
+  chapters:
+    - index.qmd
+    - capitulos/introduccion.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
