@@ -2,12 +2,13 @@ project:
   type: book
 
 book:
-  title: "Apagones"
-  author: "Andy Lima"
-  date: "23/10/2026"
+  title: "turismod"
+  author: "Isaac Guevara, Yustyn Lima"
+  date: "31/10/2026"
   chapters:
     - index.qmd
-    - capitulos/introduccion.qmd
+    - intro.qmd
+    - summary.qmd
     - references.qmd
 
 bibliography: references.bib

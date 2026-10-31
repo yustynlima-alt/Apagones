@@ -1,6 +1,9 @@
----
-title: "Introducción"
-format: html
----
+# Preface {.unnumbered}
 
-Mi primer proyecto
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
